@@ -11,6 +11,8 @@ const TenantDashboard = () => {
     const [wishlistIds, setWishlistIds] = useState([]);
     const [loading, setLoading] = useState(true);
 
+    
+
     useEffect(() => {
         fetchInitialData();
     }, []);
@@ -22,6 +24,7 @@ const TenantDashboard = () => {
                 API.get('/wishlist')
             ]);
             if (propRes.data.success) setProperties(propRes.data.properties);
+            console.log(propRes.data);
             if (wishRes.data.success) {
                 // Important: map the ID correctly from the flattened response
                 setWishlistIds(wishRes.data.wishlist.map(p => p._id));
