@@ -177,4 +177,19 @@ API testing can be performed using:
 This project is intended for academic and educational purposes.
 
 ---
+Output:
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/Login.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/Owner_Dashboard.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/dashboard_owner.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/owner_AccountProfile.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/owner_portfolio.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/owner_profile.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/owner_property_side.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/owner_property_side_2.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/owner_request.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/owner_tenant_request_accepted.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/tenant_dashboard.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/tenant_edit_profile.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/tenant_profile.png).
+![image alt](https://github.com/Rohit-U76/property-rental-app/blob/62f283144280dbd2e39f977499982e1142d9c86f/outputs/tenant_requestBooking_dashboard.png).
 
